@@ -1,0 +1,2 @@
+# ppshuai_libpthread-windows
+windows版本下的libpthread线程库
